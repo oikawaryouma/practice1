@@ -1,5 +1,7 @@
 public class pra2 {
     public static void main(String[] args) {
-        System.out.println("Hello World");
+	while(int x = 0;x<100:x++);
+	System.out.println("Hello World");
     }
+  }
 }
